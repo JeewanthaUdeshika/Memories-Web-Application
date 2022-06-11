@@ -1,0 +1,15 @@
+In the client folder,
+	npx create-react-app
+
+	npm install axios moment react-file-base64 redux redux-thunk
+
+axios - make API requests
+moment - work with time and date
+react-file-base64 - work with images
+redux/redux-thunk - asynchronus tasks
+
+In the server folder,
+	npm init -y
+
+	and installing all the dependancies
+		npm install body-parser cors express mongoose nodemon
